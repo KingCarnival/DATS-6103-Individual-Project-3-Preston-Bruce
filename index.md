@@ -12,7 +12,6 @@ Most notable of these is what is know as a 'Review Bomb" in which a game is give
 
 Introduced on March 20, 2013  Early Access (henceforth EA) was introduced as a way for developers to get active feedback along with more funding from their player as the game continues its development.
 
-
 ## Data
 
 ![Reviews per Year](images/plot4.png)
@@ -25,8 +24,8 @@ This first plot is showing the number of positive and negative reviews over the 
 
 This second plot goes over the number of views, positive and negative on the best selling games on Steam in the time frame that dataset recorded.
 
-
 ***
+
 This is the graph of reviews of 2017 the year with the greatest number of reviews.
 ![Reviews Over Time](images/plot5.png)
 ***
