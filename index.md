@@ -10,4 +10,15 @@ Most notable of these is what is know as a 'Review Bomb" in which a game is give
 
 ### Early Access
 
-Introduced in  Early Access (henceforth EA) was introduced as a way for developers to get active feedback along with more funding from their player as the game continues its development.
+Introduced on March 20, 2013  Early Access (henceforth EA) was introduced as a way for developers to get active feedback along with more funding from their player as the game continues its development.
+
+
+## Data
+
+![Reviews Over Time](images/plot1.png)
+
+This first plot goes over the number of views, positive and negative on the best selling games on Steam in the time frame that dataset recorded.
+***
+This plot shows the the reviews for each of the game for the data set.
+![Total Reviews for Each Game](images/plot2.png)
+The most important take away from this is that the game that engendered the most reviews and engagement was PLAYERUNKNOWN'S BATTLEGROUNDS, a game that released in EA and as such is responsible for the large spike in EA reviews.
