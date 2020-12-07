@@ -28,7 +28,9 @@ This second plot goes over the number of views, positive and negative on the bes
 
 This is the graph of reviews of 2017 the year with the greatest number of reviews.
 ![Reviews Over Time](images/plot5.png)
+
 ***
+
 This plot shows the the reviews for each of the game for the data set.
 ![Total Reviews for Each Game](images/plot2.png)
 
